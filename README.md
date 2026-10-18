@@ -7,3 +7,5 @@ Working on the feature branch — version A.
 Working on the main branch — version B.
 
 Updated directly on GitHub to practise git pull.
+
+Practising git fetch versus git pull.
