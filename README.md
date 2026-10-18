@@ -9,5 +9,3 @@ Working on the main branch — version B.
 Updated directly on GitHub to practise git pull.
 
 Practising git fetch versus git pull.
-
-Committed change for git revert practice.
